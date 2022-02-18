@@ -1,2 +1,2 @@
-spring
-info : 这个是master上的测试环境配置文件， 版本1
+config:
+  info: "master branch,springcloud-config/config-test.yml version=7" 
